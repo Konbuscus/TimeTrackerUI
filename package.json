@@ -1,0 +1,17 @@
+{
+  "name": "timetrackerui",
+  "version": "1.0.0",
+  "description": "Time tracker with integrated UI",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Konbuscus",
+  "license": "MIT",
+  "devDependencies": {
+    "electron": "^6.0.7"
+  },
+  "dependencies": {
+    "active-win": "^5.1.2"
+  }
+}
