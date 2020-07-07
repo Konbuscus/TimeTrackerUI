@@ -9,7 +9,7 @@
   "author": "Konbuscus",
   "license": "MIT",
   "devDependencies": {
-    "electron": "^6.0.7"
+    "electron": "^7.2.4"
   },
   "dependencies": {
     "active-win": "^5.1.2"
